@@ -1,7 +1,7 @@
 # nMostFreqWords
 ### By Kamaljit Grewal. March 2024.
 
-Find the n most frequent words in the TensorFlow Shakerpeare dataset (or any other text).
+Finds the n most frequent words in the TensorFlow Shakerpeare dataset (or any other text).
 
 To use: run the program freqWords.exe in terminal with the path to shakespeare.txt and n as your two arguments.
 
