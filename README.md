@@ -3,7 +3,11 @@
 
 Finds the n most frequent words in the TensorFlow Shakerpeare dataset (or any other text).
 
-To use: run the program freqWords.exe in terminal with the path to shakespeare.txt and n as your two arguments.
+To use, run the program freqWords.exe in terminal with two arguments: the path to shakespeare.txt and n.
+
+# Example Usage
+
+Here's the output when n = 10.
 
 ![Image of output when n=10](https://github.com/Kamal2079/nMostFreqWords/blob/main/shakespere%20pic%20n%3D10.png)
 
